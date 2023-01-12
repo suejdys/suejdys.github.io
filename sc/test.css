@@ -1,0 +1,25 @@
+body {
+    padding: 0px !important;
+    margin : 0px !important;
+}
+
+#home {
+    position: absolute;
+    top: 50px;
+    z-index: 10000;
+    background: white;
+    right: 20px;
+    padding: 15px;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    border-radius: 4px;
+    text-align: center;
+    cursor: pointer;
+    font-weight: bolder;
+  }
+
+  .iframe100 {
+    display: block;
+    border: none;
+    height: 100vh;
+    width: 100vw;
+  }
